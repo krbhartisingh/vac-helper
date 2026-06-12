@@ -1,0 +1,8 @@
+{
+  "name": "Masterclass AI Chatbot",
+  "description": "An interactive bilingual (Hindi/English) study companion for KR. Bharti Singh's Masterclass lecture series, with text-to-speech audio support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
